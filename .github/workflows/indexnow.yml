@@ -1,5 +1,8 @@
 name: IndexNow Submitter
 
+permissions: 
+  contents: write
+
 on:
   workflow_dispatch:
 
